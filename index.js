@@ -25,13 +25,13 @@ $(document).ready(function(){
         dots: false,
         responsive: {
             0: {
-                items: 2
+                items: 1
             },
             300: {
-                items: 3
+                items: 1
             },
             700: {
-                items: 5
+                items: 4
             }
         },
         loop: true,
